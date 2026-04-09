@@ -45,8 +45,8 @@ export default function Home() {
 
       <section className="max-w-4xl mx-auto mb-10">
         <h2 className="text-2xl font-semibold mb-3">Contact</h2>
-        <p className="text-gray-300">Email: your-email@example.com</p>
-        <p className="text-gray-300">GitHub: github.com/yourusername</p>
+        <p className="text-gray-300">Email:sahilgaurav62068@gmail.com</p>
+        <p className="text-gray-300">GitHub: github.com/sahilgaurav01</p>
       </section>
 
       <footer className="text-center text-gray-500 mt-10">
